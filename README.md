@@ -1,4 +1,4 @@
-### Hi there, I’m @kosteklvp 👋 Thanks for your visit ![visitors](https://visitor-badge.glitch.me/badge?page_id=%27https://github.com/kosteklvp%27&right_color=brightgreen)
+### Hi there, I’m @kosteklvp 👋 Thanks for your visitpage_id=%27https://github.com/kosteklvp%27&right_color=brightgreen)
 
 👀 I’m interested in programming, electronics and 3D printing.
 
