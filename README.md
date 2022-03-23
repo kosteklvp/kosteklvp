@@ -1,4 +1,4 @@
-### Hi there, I’m @kosteklvp 👋 Thanks for your visit/
+### Hi there, I’m @kosteklvp 👋 Thanks for your visit
 
 👀 I’m interested in programming, electronics and 3D printing.
 
